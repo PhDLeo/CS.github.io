@@ -129,13 +129,13 @@ For your information, more papers can be found in:
 
 - **Influence of molecular chain motion property in interfacial regions on dc breakdown property of polyethylene nanocomposites (National Natural Science Foundation of China, 2016-2019) ** 
 
-  <center><img src="D:\temporary\出国申请2019\ETH\Machine Learning\img\NSFC.jpg" height="160" width="190;" div align = "" style="zoom: 67%;" /></center>
+  <center><img src="D:\temporary\出国申请2019\ETH\Machine Learning\CS.github.io\img\NSFC.jpg" height="160" width="190;" div align = "" style="zoom: 67%;" /></center>
 
   This project was originated from the need for enhancing breakdown property of polyethylene to meet up with its demand for high voltage power transmission. Based on the motion property of molecular chains at the interfacial regions, this study investigated its impact on dc breakdown property of polyethylene nanocomposites and revealed the mechanism of PE breakdown. I'm responsible for model compiling and paper writing (academic paper and project report).
 
 - **Insulating property and its regularity of dielectrics in current transfer and energy dissipation (National Key Basic Research Program (973) sub-project, 2016-2019)** 
 
-  <center>      <img src="D:\temporary\出国申请2019\ETH\Machine Learning\img/973.jpg" height="130" width="180;" div align = "center" style="zoom: 67%;" />     </center>
+  <center>      <img src="D:\temporary\出国申请2019\ETH\Machine Learning\CS.github.io\img/973.jpg" height="130" width="180;" div align = "center" style="zoom: 67%;" />     </center>
 
   This project investigated the coupling impact of space charge accumulation, transient arc micro particle bombardment, metal particle deposition on the falshover property of fractrue insulating system in the process of dc arc switching, and revealed its influence regularity and failure mechanism. Study figured out the the methods to suppress the space charge accumulation and metal particle deposition in the fracture insulating system and proposed approaches to resist flashover damage and aging. This research provided the theoretical and technology support for enhancing the voltage, current as well as lifespan of circuit breaker. I was mainly involved in the modeling of energy accumulation and flashover process, and investigated the influence of charge transport parameters and temperature on flashover behavior.
 
