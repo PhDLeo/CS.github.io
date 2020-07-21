@@ -74,13 +74,13 @@ I used to be an internship in technology department in ABB for four months. Duri
 
 - **Influence of molecular chain motion property in interfacial regions on dc breakdown property of polyethylene nanocomposites (National Natural Science Foundation of China, 2016-2019) ** 
 
-  <center><img src="D:\temporary\出国申请2019\ETH\Machine Learning\CS.github.io\img\NSFC.jpg" height="160" width="190;" div align = "" style="zoom: 67%;" /></center>
+  <center><img src="https://i.loli.net/2020/07/21/QR3dtcSkVrbUJBa.jpg" alt="NSFC" style="zoom:40%;" /></center>
 
   This project was originated from the need for enhancing breakdown property of polyethylene to meet up with its demand for high voltage power transmission. Based on the motion property of molecular chains at the interfacial regions, this study investigated its impact on dc breakdown property of polyethylene nanocomposites and revealed the mechanism of PE breakdown. I'm responsible for model compiling and paper writing (academic paper and project report).
 
 - **Insulating property and its regularity of dielectrics in current transfer and energy dissipation (National Key Basic Research Program (973) sub-project, 2016-2019)** 
 
-  <center>      <img src="D:\temporary\出国申请2019\ETH\Machine Learning\CS.github.io\img/973.jpg" height="130" width="180;" div align = "center" style="zoom: 67%;" />     </center>
+  <center><img src="https://i.loli.net/2020/07/21/pyXZMUDL4d78mt3.jpg" alt="973" style="zoom:20%;" /></center>
 
   This project investigated the coupling impact of space charge accumulation, transient arc micro particle bombardment, metal particle deposition on the falshover property of fractrue insulating system in the process of dc arc switching, and revealed its influence regularity and failure mechanism. Study figured out the the methods to suppress the space charge accumulation and metal particle deposition in the fracture insulating system and proposed approaches to resist flashover damage and aging. This research provided the theoretical and technology support for enhancing the voltage, current as well as lifespan of circuit breaker. I was mainly involved in the modeling of energy accumulation and flashover process, and investigated the influence of charge transport parameters and temperature on flashover behavior.
 
@@ -121,8 +121,9 @@ This model considers the charge injection, migration, trapping/detrapping and re
 
 <img src="https://i.loli.net/2020/06/05/G1p9ghzKWNAemIj.png" alt="image-20200519225453984" style="zoom:80%;" />
 
-<center> Fig. Scheme of CTMD model and molecular chain displacement model <center>
+<center> Fig. Scheme of CTMD model and molecular chain displacement model </center>
 Charges are continuously injected from electrodes to the bulk of samples and they may be captured by traps (both shallow traps and deep ones). When captured by deep traps, which means charges need to obtain higher energy to detrap, charge keep retention for a longer period. Also, during the migration from one electrode to another one, combination may occur when a positive charge encounters a negative one. Such a dynamic process includes entire charge motion  This model is used for calculating the charge transport property in the bulk of insulating material, including numerical calculation of space charge and electrical field distribution, energy gained by electrons as well as electrical strength. This model was once used for explaining the electrical breakdown behavior of polypropylene (PP, used for film of power capacitor) nanocomposite. By combining the experimental results and calculation of model, hidden electrical breakdown mechanism of PP nanocomposite was revealed. Details regarding the model can be seen in [Carrier Transport and Molecular Displacement Modulated dc Electrical Breakdown of Polypropylene Nanocomposites](#).
+
 
 Based on this model, we investigate the electrical breakdown property of PI samples with various thicknesses. It is found that similar mechanism modulates the breakdown behavior of PI and simulations results are better fit than the space charge electrical breakdown (SCEB) model. Relating results and comparison can be found in [Thickness-Dependent DC Electrical Breakdown of Polyimide Modulated by Charge Transport and Molecular Displacement.](#)
 
