@@ -55,8 +55,6 @@ During postgraduate's study,  I was in Prof. [Shengtao Li](http://gr.xjtu.edu.cn
 10. Excellent student award    2015.11 & 2014.11 & 2013.11
 11. National innovation training program, first class award, 2014.04 & 2015.04 & 2016.04
 
-- 
-
 ## Personal Statement ## 
 
 During the learning and research in past few years, I had a deeper insight into the academic research and the desire to explore the unknown. In most time of my research period, I keep tackling with data and programming. Compared with other competitors, I believe I do have a good ability of learning and basis of computer science. Therefor, I am confident in completing this Ph.D program. Here I will introduce my previous experience regarding data science and computer science.
@@ -146,7 +144,7 @@ For your information, more papers can be found in:
 
 - **Design for large scale vehicle battery management system based on ARM (National innovation training program, 2014-2015)**
 
-  This project was originated from the need for a more efficient battery management for electrical vehicles. Research focused on energy consumption control of lithium battery during the operation process of electrical vehicles and optimized efficiency of battery via parameter self-regulation as well as    safety control. This system completed the process from data collection to the hardware circuit design as well as discharge control, SOC estimation and closed-loop design of communication feedback. I was the leader of this project and got the national first class award.
+  This project was originated from the need for a more efficient battery management for electrical vehicles. Research focused on energy consumption control of lithium battery during the operation process of electrical vehicles and optimized efficiency of battery via parameter self-regulation as well as safety control. This system completed the process from data collection to the hardware circuit design as well as discharge control, SOC estimation and closed-loop design of communication feedback. I was the leader of this project and got the national first class award.
 
 - **Design of wireless sensor network node with high performance(National innovation training program, 2015-2016)**
 
